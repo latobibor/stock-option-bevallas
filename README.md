@@ -8,6 +8,7 @@ Az útmutató bérrabszolgáknak készült, azaz munkaviszony mellett, nem egyé
 
 ## Hasznos link
 https://traderklub.hu/cikkek/kereskedes/tozsdei-kereskedes-adozasa-etu-arfolyamnyereseg-osztalek/
+https://elemzeskozpont.hu/ellenorzott-tokepiaci-ugylet-adozasa-2021
 
 ## Mennyit utalok?
 > "Az osztalékjövedelem után 15% SZJA fizetési kötelezettséged lesz".
