@@ -6,12 +6,15 @@ Valami külföldi cégnél vagy bérrabszolga ahol az idegrendszered felőrlés�
 Ez csak egy readme az interneten, nem felelős jogi tanácsadás. A [hivatalos információ](https://www.nav.gov.hu/nav/ado/szja/Tajekoztato_az_ellenorzott_tokepiaci_ugyletrol.html?query=egy%C3%A9b) csak annyit mond, hogy be kell fizetni meg be kell vallani. De mennyit? Hova? Milyen rubrikába vallom be?
 Az útmutató bérrabszolgáknak készült, azaz munkaviszony mellett, nem egyéni vállalkozóknak, unikornisoknak, trolloknak.
 
-## Hasznos link
+## Hasznos linkek amelyek csak még jobban összezavarnak
 https://traderklub.hu/cikkek/kereskedes/tozsdei-kereskedes-adozasa-etu-arfolyamnyereseg-osztalek/
 https://elemzeskozpont.hu/ellenorzott-tokepiaci-ugylet-adozasa-2021
 
+## Valóban hasznos linkek
+[MNB árfolyam lekérdezés](https://www.mnb.hu/arfolyam-lekerdezes).
+
 ## Mennyit utalok?
-> "Az osztalékjövedelem után 15% SZJA fizetési kötelezettséged lesz".
+87% után 15% SZJA? Szochót is? Állítólag van szochó plafon is, tehát mégse?
 
 ### Osztalékjövedelem számítása
 TODO
