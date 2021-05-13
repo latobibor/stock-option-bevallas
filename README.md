@@ -14,10 +14,14 @@ https://elemzeskozpont.hu/ellenorzott-tokepiaci-ugylet-adozasa-2021
 [MNB árfolyam lekérdezés](https://www.mnb.hu/arfolyam-lekerdezes).
 
 ## Mennyit utalok?
-87% után 15% SZJA? Szochót is? Állítólag van szochó plafon is, tehát mégse?
+Kérdés:
+- van aki szerint csak a jövedelem 87% után kell 15% SZJA?
 
-### Osztalékjövedelem számítása
-TODO
+Ha ez a kérdés megválaszolódik a képlet kb. így fog kinézni:
+
+A számlára érkezett pénz, pl. `1000 USD` `*` eladás napi árfolyam (pl. 2020.06.06.) `290` `*` SZJA `0.15`.
+
+Tehát: `1000$ * 290 Ft/$ * 0.15` = `43500 Ft`.
 
 ## Hova kell utalni a pénzt?
 SZJA-t ide: `10032000-016056353` közlemény: adószám
