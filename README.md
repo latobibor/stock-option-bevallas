@@ -18,3 +18,10 @@ Szochót ide: TODO
 
 ## Akkor melyik rubrika is?
 TODO
+
+# Elrontottam valamit?
+Hozz létre egy PR-t. Dobjál mellé forrást. Vagy írj nekem itt valahogy.
+
+B lehetőség, hogy egy ironikusnak szánt ám nem túl szellemes oltást posztolsz a Facebookra, de az nem fog hozzám eljutni.
+
+Köszi, csá.
